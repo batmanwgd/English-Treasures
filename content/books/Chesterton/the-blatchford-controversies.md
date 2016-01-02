@@ -1,50 +1,37 @@
-<html>
-<head>
-<title>The Blatchford Controversies</title>
-</head>
-<body>
++++
+date        = "2013-06-21T11:27:27-04:00"
+title       = "The Blatchford Controversies"
+description = ""
+author      = "G. K. Chesterton"
+tags        = [  ]
+topics      = [  ]
+slug        = "blatchford-controversies"
++++
+
+# THE BLATCHFORD CONTROVERSIES
+### by G. K. Chesterton
+#### 1904 by Macmillan and Co., London, UK.
+
+> "It is not enough to say 'Christians persecuted; down with Christianity.' Any more than it 
+is enough to say, 'A Confucian stole my hair-brush; down with Confucianism.' We want 
+to know whether the reason for which the Confucian stole the hair-brush was a reason 
+peculiar to the Confucian or a reason common to many other men."
 
 
-G. K. Chesterton
+## TABLE OF CONTENTS
 
-1904 by Macmillan and Co., London, UK.
+1. [Christianity and Rationalism](#c01)
+2. [Why I Believe in Christianity](#c02)
+3. [Miracles and Modern Civilisation](#c03)
+4. [The Eternal Heroism of the Slums](#c04)
 
-This work is published for the greater Glory of Jesus Christ through His most
-Holy Mother Mary and for the sanctification of the militant Church and her members.
+<a name="c01"></a>
 
-PUBLISHER
-
-www.eCatholic2000.com
-
-INDEX
-
-TABLE OF CONTENTS
-
-THE BLATCHFORD CONTROVERSIES
-
-PUBLISHER II
-
-THE BLATCHFORD CONTROVERSIES
-
-Introduction by Masie Ward
-
-Against R. J. Campbell [Chesterton] showed in a lecture on “Christianity and Social Reform” how belief in sin as well as in goodness was more favourable to social reform than was the rather woolly optimism that refused to recognize evil. “The nigger–driver will be delighted to hear that God is immanent in him . . . The sweater that . . . he has not in any way become divided from the supreme perfection of the universe.” If the New Theology would not lead to social reform, the social Utopia to which the philosophy of [H. G.] Wells and of [George Bernard] Shaw was pointing seemed to Chesterton not a heaven on earth to be desired, but a kind of final hell to be avoided, since it banished all freedom and human responsibility. Arguing with them was again highly fruitful, and two subjects he chose for speeches are suggestive–”The Terror of Tendencies” and “Shall We Abolish the Inevitable?”
-
-In the New Age Shaw wrote about Belloc and Chesterton and so did Wells, while Chesterton wrote about Wells and Shaw, till the Philistines grew angry, called it self–advertisement and log–rolling and urged that a Bill for the abolition of Shaw and Chesterton should be introduced into Parliament. But G.K. had no need for advertisement of himself or his ideas just then: he had a platform, he had an eager audience. Every week he wrote in the Illustrated London News, beginning in 1905 to do “Our Notebook” (this continued till his death in 1936). He was still writing every Saturday in the Daily News. Publishers were disputing for each of his books. Yet he rushed into every religious controversy that was going on, because thereby he could clarify and develop his ideas.
-
-
-
-The most important of all these was the controversy with Blatchford, Editor of the Clarion, who had written a rationalist Credo, entitled God and My Neighbour. In 1903–4, he had the generosity and the wisdom to throw open the Clarion to the freest possible discussion of his views. The Christian attack was made by a group of which Chesterton was the outstanding figure, and was afterwards gathered into a paper volume called The Doubts of Democracy.
-
-One essay in this volume, written in 1903, is of primary importance in any study of the sources of Orthodoxy, for it gives a brilliant outline of one of the main contentions of the book and shows even better than Orthodoxy itself what he meant by saying that he had first learnt Christianity from its opponents. It is clear that by now he believed in the Divinity of Christ. The pamphlet itself has fallen into oblivion and Chesterton’s share of it was only three short essays. . . . in [them] he has put in concentrated form and with different illustrations what he developed five years later. There is nothing more packed with thought in the whole of his writings than these essays.
-
-1. Christianity and Rationalism
+### Christianity and Rationalism
 
 The first of all the difficulties that I have in controverting Mr. Blatchford is simply this, that I shall be very largely going over his own ground. My favourite text–book of theology is [Blatchford’s] God and My Neighbour, but I cannot repeat it in detail. If I gave each of my reasons for being a Christian, a vast number of them would be Mr. Blatchford’s reasons for not being one.
 
 For instance, Mr. Blatchford and his school point out that there are many myths parallel to the Christian story; that there were Pagan Christs, and Red Indian Incarnations, and Patagonian Crucifixions, for all I know or care. But does not Mr. Blatchford see the other side of the fact? If the Christian God really made the human race, would not the human race tend to rumours and perversions of the Christian God? If the centre of our life is a certain fact, would not people far from the centre have a muddled version of that fact? If we are so made that a Son of God must deliver us, is it odd that Patagonians should dream of a Son of God?
-
-
 
 The Blatchfordian position really amounts to this—that because a certain thing has impressed millions of different people as likely or necessary, therefore it cannot be true. And then this bashful being, veiling his own talents, convicts the wretched G.K.C. of paradox. I like paradox, but I am not prepared to dance and dazzle to the extent of Nunquam, who points to humanity crying out for a thing, and pointing to it from immemorial ages, as proof that it cannot be there.
 
@@ -59,8 +46,6 @@ Take a second instance. The Secularist says that Christianity has been a gloomy 
 It is perfectly tenable that this experience is as dangerous and selfish a thing as drink. A man who goes ragged and homeless in order to see visions may be as repellant and immoral as a man who goes ragged and homeless in order to drink brandy. That is a quite reasonable position. But what is manifestly not a reasonable position, what would be, in fact, not far from being an insane position, would be to say that the raggedness of the man, and the stupefied degradation of the man, proved that there was no such thing as brandy. That is precisely what the Secularist tries to say. He tries to prove that there is no such thing as supernatural experience by pointing at the people who have given up everything for it. He tries to prove that there is no such thing by proving that there are people who live on nothing else.
 
 Again I may submissively ask: “Whose is the Paradox?” The fanatic severity of these men may, of course, show that they were eccentric people who loved unhappiness for its own sake. But it seems more in accordance with common sense to suppose that they had really found the secret of some actual power or experience which was, like wine, a terrible consolation and a lonely joy.
-
-
 
 Thus, then in the second instance, when the learned sceptic says to me: “Christian saints gave up love and liberty for this one rapture of Christianity,” I should reply: “It was very wrong of them. But, having some notion of the rapture of Christianity, I should have been surprised if they hadn’t.”
 
@@ -78,8 +63,6 @@ But why should we labour the point when One who knew human nature as it can real
 
 Thus, then, in the third instance, when the learned sceptic says: “Christianity produced wars and persecutions,” we shall reply: “Naturally.”
 
-
-
 And, lastly, let me take an example which leads me on directly to the general matter I wish to discuss for the remaining space of the articles at my command. The Secularist constantly points out that the Hebrew and Christian religions began as local things; that their god was a tribal god; that they gave him material form, and attached him to particular places.
 
 This is an excellent example of one of the things that if I were conducting a detailed campaign I should use as an argument for the validity of Biblical experience. For if there really are some other and higher beings than ourselves, and if they in some strange way, at some emotional crisis, really revealed themselves to rude poets or dreamers in very simple times, that these rude people should regard the revelation as local, and connect it with the particular hill or river where it happened, seems to me exactly what any reasonable human being would expect. It has a far more credible look than if they had talked cosmic philosophy from the beginning. If they had, I should have suspected “priestcraft” and forgeries and third–century gnosticism.
@@ -92,15 +75,15 @@ Thus, then, in our last instance (out of hundreds that might be taken), we concl
 
 Thus, as I said at the beginning, I find myself, to start with, face to face with the difficulty that to mention the reasons that I have for believing in Christianity is, in very many cases, simply to repeat those arguments which Mr. Blatchford, in some strange way, seems to regard as arguments against it. His book is really rich and powerful. He has undoubtedly set up these four great guns of which I have spoken. I have nothing to say against the size and ammunition of the guns. I only say that by some strange accident of arrangement he has set up those four pieces of artillery pointing at himself. If I were not so humane, I should say: “Gentlemen of the Secularist Guard, fire first.”
 
-2. Why I Believe in Christianity
+<a name="c02"></a>
+
+### 2. Why I Believe in Christianity
 
 I mean no disrespect to Mr. Blatchford in saying that our difficulty very largely lies in the fact that he, like masses of clever people nowadays, does not understand what theology is. To make mistakes in a science is one thing, to mistake its nature another. And as I read God and My Neighbour, the conviction gradually dawns on me that he thinks theology is the study of whether a lot of tales about God told in the Bible are historically demonstrable. This is as if he were trying to prove to a man that Socialism was sound Political Economy, and began to realise half–way through that the man thought that Political Economy meant the study of whether politicians were economical.
 
 It is very hard to explain briefly the nature of a whole living study; it would be just as hard to explain politics or ethics. For the more a thing is huge and obvious and stares one in the face, the harder it is to define. Anybody can define conchology. Nobody can define morals.
 
 Nevertheless it falls to us to make some attempt to explain this religious philosophy which was, and will be again, the study of the highest intellects and the foundation of the strongest nations, but which our little civilisation has for a while forgotten, just as it has forgotten how to dance and how to dress itself decently. I will try and explain why I think a religious philosophy necessary and why I think Christianity the best religious philosophy. But before I do so I want you to bear in mind two historical facts. I do not ask you to draw my deduction from them or any deduction from them. I ask you to remember them as mere facts throughout the discussion.
-
-
 
 1. Christianity arose and spread in a very cultured and very cynical world–in a very modern world. Lucretius was as much a materialist as Haeckel, and a much more persuasive writer. The Roman world had read God and My Neighbour, and in a weary sort of way thought it quite true. It is worth noting that religions almost always do arise out of these sceptical civilisations. A recent book on the Pre–Mohammedan literature of Arabia describes a life entirely polished and luxurious. It was so with Buddha, born in the purple of an ancient civilisation. It was so with Puritanism in England and the Catholic Revival in France and Italy, both of which were born out of the rationalism of the Renaissance. It is so to–day; it is always so. Go to the two most modern and free–thinking centres, Paris and America, and you will find them full of devils and angels, of old mysteries and new prophets. Rationalism is fighting for its life against the young and vigorous superstitions.
 
@@ -126,8 +109,6 @@ The Christian, I repeat, puts the mystery into his philosophy. That mystery by i
 
 It is not a question between mysticism and rationality. It is a question between mysticism and madness. For mysticism, and mysticism alone, has kept men sane from the beginning of the world. All the straight roads of logic lead to some Bedlam, to Anarchism or to passive obedience, to treating the universe as a clockwork of matter or else as a delusion of mind. It is only the Mystic, the man who accepts the contradictions, who can laugh and walk easily through the world.
 
-
-
 Are you surprised that the same civilisation which believed in the Trinity discovered steam?
 
 All the great Christian doctrines are of this kind. Look at them carefully and fairly for yourselves. I have only space for two examples. The first is the Christian idea of God. Just as we have all been Agnostics so we have all been Pantheists. In the godhood of youth it seems so easy to say, “Why cannot a man see God in a bird flying and be content?” But then comes a time when we go on and say, “If God is in the birds, let us be not only as beautiful as the birds; let us be as cruel as the birds; let us live the mad, red life of nature.” And something that is wholesome in us resists and says, “My friend, you are going mad.”
@@ -144,11 +125,11 @@ Lastly, there is a word to be said about the Fall [Original Sin]. It can only be
 
 If you wanted to dissuade a man from drinking his tenth whisky you would slap him on the back and say, “Be a man.” No one who wished to dissuade a crocodile from eating his tenth explorer would slap it on the back and say, “Be a crocodile.” For we have no notion of a perfect crocodile; no allegory of a whale expelled from his whaley Eden. If a whale came up to us and said: “I am a new kind of whale; I have abandoned whalebone,” we should not trouble. But if a man came up to us (as many will soon come up to us) to say, “I am a new kind of man. I am the super–man. I have abandoned mercy and justice”; we should answer, “Doubtless you are new, but you are not nearer to the perfect man, for he has been already in the mind of God. We have fallen with Adam and we shall rise with Christ; but we would rather fall with Satan than rise with you.”
 
-3. Miracles and Modern Civilisation
+<a name="c03"></a>
+
+### 3. Miracles and Modern Civilisation
 
 Mr. Blatchford has summed up all that is important in his whole position in three sentences. They are perfectly honest and clear. Nor are they any the less honest and clear because the first two of them are falsehoods and the third is a fallacy. He says “The Christian denies the miracles of the Mahommedan. The Mahommedan denies the miracles of the Christian. The Rationalist denies all miracles alike.”
-
-
 
 The historical error in the first two remarks I will deal with shortly. I confine myself for the moment to the courageous admission of Mr. Blatchford that the Rationalist denies all miracles alike. He does not question them. He does not pretend to be agnostic about them. He does not suspend his judgment until they shall be proved. He denies them. Faced with this astounding dogma I asked Mr. Blatchford why he thought miracles would not occur. He replied that the Universe was governed by laws. Obviously this answer is of no use whatever. For we cannot call a thing impossible because the world is governed by laws, unless we know what laws. Does Mr. Blatchford know all about all the laws in the Universe? And if he does not know about the laws how can he possibly know anything about the exceptions?
 
@@ -174,8 +155,6 @@ The historic case against miracles is also rather simple. It consists of calling
 
 The real question is whether our little Oxford Street civilisation is certain to be right and the rest of the world certain to be wrong. Mr. Blatchford thinks that the materialism of nineteenth century Westerns is one of their noble discoveries. I think it is as dull as their coats, as dirty as their streets, as ugly as their trousers, and as stupid as their industrial system.
 
-
-
 Mr. Blatchford himself, however, has summed up perfectly his pathetic faith in modern civilisation. He has written a very amusing description of how difficult it would be to persuade an English judge in a modern law court of the truth of the Resurrection. Of course he is quite right; it would be impossible. But it does not seem to occur to him that we Christians may not have such an extravagant reverence for English judges as is felt by Mr. Blatchford himself.
 
 The experiences of the Founder of Christianity have perhaps left us in a vague doubt of the infallibility of courts of law. I know quite well that nothing would induce a British judge to believe that a man had risen from the dead. But then I know quite as well that a very little while ago nothing would have induced a British judge to believe that a Socialist could be a good man. A judge would refuse to believe in new spiritual wonders. But this would not be because he was a judge, but because he was, besides being a judge, an English gentleman, a modern Rationalist, and something of an old fool.
@@ -188,11 +167,11 @@ In so far as the Church did (chiefly during the corrupt and sceptical eighteenth
 
 What matters about a religion is not whether it can work marvels like any ragged Indian conjurer, but whether it has a true philosophy of the Universe. The Romans were quite willing to admit that Christ was a God. What they denied was the He was the God—the highest truth of the cosmos. And this is the only point worth discussing about Christianity.
 
-4. The Eternal Heroism of the Slums
+<a name="c04"></a>
+
+### 4. The Eternal Heroism of the Slums
 
 I have said it before, but it cannot be too often repeated, that what is the matter with Mr. Blatchford and his school is that they are not sceptical enough. For the really bold questions we have to go back to the Christian Fathers.
-
-
 
 For example, Mr. Blatchford, in God and My Neighbor, does me the honour to quote from me as follows: “Mr. G. K. Chesterton, in defending Christianity, said, ‘Christianity has committed crimes at which the sun might sicken in heaven, and no one can refute the statement.’ “ I did say this, and I say it again, but I said something else. I said that every great and useful institution had committed such crimes. And no one can refute that statement.
 
@@ -224,8 +203,6 @@ The second thing to say, of course, is that Mr. Blatchford offers nothing even r
 
 The fact is very simple. It may be true that perfect conditions would produce perfect men. But it is much more obviously that only perfect men could invent perfect conditions. If we make such a mess of our own lives, how can we be certain that we know the best soil for living things? If heredity and environment make it so necessary for us to commit theft and adultery, why should they not make it necessary for us to create conditions that will lead to theft and adultery? In the British Isles at this moment there exist, I imagine, people in every conceivable degree of riches and poverety, from insane opulence to insane hunger. Is anyone of those classes morally exquisite or glaringly any better than the rest? And where so many modes of education fail, by what right does Mr. Blatchford assume his, whatever it is, to be infallible?
 
-
-
 As for the great part of the talk of Mr. Blatchford about sin arising from vile and filthy environments, I do not wish to introduce into this discussion anything of personal emotion, but I am bound to say that I have great difficulty in enduring that talk with patience. Who in the world is it who thus speaks as if wickedness and folly raged only among the unfortunate? Is it Mr. Blatchford who falls back upon the old contemptible impertinence which represents virtue to be something upper–class, like a visiting card, or a silk hat? Is it Nunquam who denies the eternal heroism of the slums? The thing is almost incredible, but so it is. Nunquam has put a coping stone upon his Tempe, this association of vice with poverty, the vilest and the oldest and the dirtiest of all the stones that insolence has ever flung at the poor.
 
 Man that is born of woman has short days and full of trouble; but he is a nobler and a happier being than this would make him out. I will not deign to answer even Mr. Blatchford when he asks “how” a man born in filth and sin can live a noble life. I know so many who are doing it, within a stone’s throw of my own house, in Battersea, that I care little how it is done. Man has something in him always which is not conquered by conditions. Yes, there is a liberty that has never been chained. There is a liberty that has made men happy in dungeons, as it may make then happy in slums. It is the liberty of the mind, that is to say, it is the one liberty on which Mr. Blatchford makes war. That which all the tyrrans have left, he would extinguish. That which no gaoler could ever deny to a prisoner, Nunquam would deny. More numerous than can be counted, in all the wars and persecutions of the world, men have looked out of their little grated windows and said, “at least my thoughts are free.” “No, No,” says the face of Mr. Blatchford, suddenly appearing at the window, “your thoughts are the inevitable result of heredity and environment. Your thoughts are as material as your dungeons. Your thoughts are as mechanical as the guillotine.” So pants this strange comforter, from cell to cell.
@@ -235,7 +212,3 @@ I suppose Mr. Blatchford would say that in his Utopia nobody would be in prison.
 does it matter? he may not have his own soul. Every thought that comes into his head he must regard as the click of a machine. He sees a lost child and with a spasm of pity decides to adopt it. Click! he has to remember that he has not really done it at all. He has a temptation to do some huge irresistible sin; he reminds himself that he is a man, that he can, if he likes, be a hero; he resists it. Click! he remember that he is not a man and not a hero, but a machine, so made as to produce that result. He walks in wide fields under a splendid sunrise; he resolves on some vast magnanimity—Click! what is the good of sunrises and palaces? Was ever slavery like unto this slavery? Was ever man before so much a slave?
 
 I know that this will never be, That is, I know that Mr. Blatchford’s philosophy will never be endured among sane men. But if ever it is I will very easily predict what will happen. Man, the machine, will stand up in these flowery meadows and cry aloud, “Was there not once a thing, a church, that taught us we were free in our souls? Did it not surround itself with tortures and dungeons in order to force men to believe that their souls were free? If there was, let it return, tortures, dungeons and all. Put me in those dungeons, rack me with those tortures, if by that means I may possibly believe it again.”
-
-
-</body>
-</html>
