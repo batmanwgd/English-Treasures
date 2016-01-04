@@ -1,40 +1,15 @@
-     __________________________________________________________________
++++
+date        = "2013-06-21T11:27:27-04:00"
+title       = "Autobiography of Madame Guyon"
+description = ""
+author      = "John Henry Newman"
+copyright   = "Public Domain"
+publisher   = "Moody Press"
+tags        = [  ]
+topics      = [  ]
+slug        = "autobiography-of-madame-guyon"
++++
 
-           Title: Autobiography of Madame Guyon
-      Creator(s): Guyon, Madame (1647-1717)
-     Print Basis: Moody Press
-          Rights: Public Domain
-   CCEL Subjects: All; Classic; Biotarget=guyon; Biography; Proofed
-      LC Call no: BX4705.G5
-     LC Subjects:
-
-                  Christian Denominations
-
-                  Roman Catholic Church
-
-                  Biography and portraits
-
-                  Individual
-     __________________________________________________________________
-
-                                AUTOBIOGRAPHY OF
-                                  MADAME GUYON
-
-
-
-
-  IN TWO PARTS
-
-
-
-
-   Scanned from the edition of Moody Press, Chicago
-
-   by Harry Plantinga, 1995
-
-   This etext is in the public domain
-
-     __________________________________________________________________
 
 INTRODUCTION
 

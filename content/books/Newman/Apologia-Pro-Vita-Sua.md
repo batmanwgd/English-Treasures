@@ -1,6 +1,14 @@
-Title: Apologia pro Vita Sua
-Author: John Henry Newman
-Language: English
++++
+date        = "2013-06-21T11:27:27-04:00"
+title       = "Apologia Pro Vita Sua"
+description = ""
+author      = "John Henry Newman"
+copyright   = "Public Domain"
+publisher   = "J. M. Dent & Sons Ltd"
+tags        = [  ]
+topics      = [  ]
+slug        = "apologia-pro-vita-sua"
++++
 
 # APOLOGIA PRO VITA SUA
 
