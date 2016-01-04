@@ -1,0 +1,23 @@
+/* Reset, General Styles, and Backgrounds----------**
+---------------------------------------------------*/
+
+@font-face {
+  font-family: 'Noto-Sans';
+  src:  url('../fonts/Noto-Sans.woff2') format('woff2'),
+        url('../fonts/Noto-Sans.woff') format('woff');
+}
+
+
+*					{margin:0;padding:0}
+body				{font-family:"Noto-Sans",sans-serif;max-width: 960px;margin: 0 auto;}
+a 					{text-decoration:none;color:#000;}
+
+.index-content a 		{font-size:1.5em;display:block;width:33%;float:left;}
+.index-content a:hover 	{cursor:pointer}
+.index-content a span 	{font-size:.75em;color:#666;}
+
+h1,h2,h3 {text-align: center;margin:1em 0}
+p {margin-bottom:.5em;}
+
+.dark {background-color:#222;color:#fafafa;}
+.dark a {color:indianred;}
