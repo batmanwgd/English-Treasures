@@ -1,53 +1,26 @@
-{{ partial "header.html" . }}
-{{ $baseurl := .Site.BaseURL }}
+<!DOCTYPE HTML>
+<html lang="chi" dir="ltr">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
 
-{{if .Params.cover}}
-	<header class="main-header" style="background-image: url({{ $baseurl }}{{.Params.cover}})">
-{{else if .Site.Params.cover}}
-	<header class="main-header" style="background-image: url({{ $baseurl }}{{.Site.Params.cover}})">
-{{else}}
-	<header class="main-header tag-head no-cover">
-{{end}}
-    <nav class="main-nav overlay clearfix">
-      {{ if .Site.Params.logo }}
-        <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Home" /></a>
-      {{end}}
-      {{ if .Site.Menus.main }}
-          <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
-      {{else}}
-        {{ if .Site.Params.RSSLink}}
-          <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
-        {{else}}
-          <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
-        {{end}}
-      {{end}}
-    </nav>
-    <div class="vertical">
+<div class="index-content">
 
-        <div class="main-header-content inner">
-            <h1 class="page-title">
-
-              <a class="btn-bootstrap-2" href="#content">{{ .Site.Title }}</a>
-          </h1>
-        </div>
-</div>
-    <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
-</header>
-
-<main id="content" class="content" role="main">
-    {{ $paginator := .Paginator }}
-
-	<div class="extra-pagination inner">
-    {{ partial "pagination.html" $paginator }}
-	</div>
-
-	{{ range $index, $page := $paginator.Pages }}
-	   {{ .Render "li" }}
+	{{ range .Data.Pages }}
+	   <a href="{{ .RelPermalink }}"><p>{{ .Title }}</p><span>{{.Params.author}}</span></a>
 	{{ end }}
 
-	{{ partial "pagination.html" $paginator }}
-</main>
+</div>
 
 
-
-{{ partial "footer.html" . }}
+<script type="text/javascript">
+    function a(){
+        this.classList.toggle('darken');
+    }
+    document.querySelector('#darken').addEventListener('click', a )
+</script>
+</body>
+</html>
