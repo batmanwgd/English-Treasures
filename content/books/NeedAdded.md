@@ -14,7 +14,6 @@ Ecclesiastical History of the English People
 Mere Christianity  
 Christ and Culture  
 The Cloud of Unknowing  
-Paradise Lost  
 Centuries of Meditations  
 The Dark Night of the Soul  
 Confessions by Saint Augustine  
