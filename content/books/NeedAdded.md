@@ -1,3 +1,4 @@
+
 # Wanted Books
 ### <small>All books must be Public Domain. If a book on this list is not Public Domain, do not include it</small>
 
@@ -21,8 +22,7 @@ The Rule of Benedict by St.Benedict
 Summa Theologica by Saint Thomas Aquinas  
 Revelations of Divine Love by Julian of Norwich  
 Pensees by Blaise Pascal  
-City of God by Saint Augustine  
-The Imitation of Christ  
+City of God by Saint Augustine    
 
 ### All books need to be added via last-name/book-title.md
 ### For Example...
@@ -32,4 +32,6 @@ content/books/Chesterton/Heretics.md
 content/books/Chesterton/Orthodoxy.md  
 content/books/Chesterton/the-blatchford-controveries.md  
 content/books/Guyon/guyon.md  
-content/books/Chesterton/Newman/Apologia-Pro-Vita-Sua.md
+content/books/Chesterton/Newman/Apologia-Pro-Vita-Sua.md  
+
+#### <small>If necessary, use (last-name)-(first-name) for the folder name.</small>
