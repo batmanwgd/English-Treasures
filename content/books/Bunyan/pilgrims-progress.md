@@ -1,3 +1,13 @@
++++
+date        = "2013-06-21T11:27:27-04:00"
+title       = "The Pilgrim's Progress"
+description = ""
+author      = "John Bunyan"
+tags        = [  ]
+topics      = [  ]
+slug        = "pilgrims-progress"
++++
+
 # The Pilgrim's Progress
 
 ### From This World to That Which is to Come; Delivered under the Similitude of a Dream
