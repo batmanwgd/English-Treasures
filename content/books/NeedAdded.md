@@ -8,10 +8,10 @@ The Quest of the Historical Jesus
 The Prayers and Meditations of St. Anselm with the Proslogion  
 A Theology of Liberation  
 Moral Man and Immoral Society  
-The Screwtape Letters  
+The Screwtape Letters (<b>not in the <i>American</i> public domain</b>)  
 Ecclesiastical History of the English People  
-Mere Christianity (<b>not public domain</b>)  
-Christ and Culture  
+Mere Christianity (<b>not in the <i>American</i> public domain</b>)  
+Christ and Culture (<b>not public domain</b>)  
 The Cloud of Unknowing  
 Centuries of Meditations  
 The Dark Night of the Soul  
