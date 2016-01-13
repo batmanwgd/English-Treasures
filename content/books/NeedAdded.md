@@ -25,11 +25,15 @@ City of God by Saint Augustine
 ### All books need to be added via last-name/book-title.md
 ### For Example...
 
-content/books/Bunyan/PilgrimsProgress.md  
-content/books/Chesterton/Heretics.md  
-content/books/Chesterton/Orthodoxy.md  
-content/books/Chesterton/the-blatchford-controveries.md  
-content/books/Guyon/guyon.md  
-content/books/Chesterton/Newman/Apologia-Pro-Vita-Sua.md  
+
+content/books/bunyan/pilgrims-progress.md  
+content/books/chesterton/heretics.md  
+content/books/chesterton/orthodoxy.md  
+content/books/chesterton/the-blatchford-controveries.md  
+content/books/guyon/guyon.md  
+content/books/chesterton/apologia-pro-vita-sua.md  
 
 #### <small>If necessary, use (last-name)-(first-name) for the folder name.</small>
+- All Names and titles Should be in lowercase spaces
+- All Spaces Should be dashes
+- There should never be a double dash --
