@@ -1,3 +1,13 @@
++++
+date        = "2013-06-21T11:27:27-04:00"
+title       = "The Pilgrim's Progress"
+description = ""
+author      = "John Bunyan"
+tags        = [  ]
+topics      = [  ]
+slug        = "pilgrims-progress"
++++
+
 # The Pilgrim's Progress
 
 ### From This World to That Which is to Come; Delivered under the Similitude of a Dream
@@ -307,7 +317,7 @@ John Bunyan.
 01.  \[1\] Without end.
 02.  \[2\] Hint, whisper, insinuation.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="cP1"></a>
 
@@ -538,7 +548,7 @@ Evangelist: Then said Evangelist to him, Thy sin is very great, for by it thou h
 02.  \[4\] Slight knowledge.
 03.  \[5\] Wish a curse to.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c02"></a>
 
@@ -733,7 +743,7 @@ Thankful, O good Interpreter, to thee."
 
 01.  \[6\] The Holy Spirit.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c03"></a>
 
@@ -945,7 +955,7 @@ The Porter: He is got by this time below the hill.
 
 Christian: Well, said Christian, good Porter, the Lord be with thee, and add to all thy plain blessings much increase for the kindness that thou hast showed me.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c04"></a>
 
@@ -1090,7 +1100,7 @@ My path about, that worthless, silly I
 Might have been catch'd, entangled, and cast down;  
 But since I live, let Jesus wear the crown."  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c05"></a>
 
@@ -1374,7 +1384,7 @@ And so will all but he that heart-work know."
 
 Thus they went on, talking of what they had seen by the way, and so made that way easy, which would otherwise no doubt have been tedious to them, for now they went through a wilderness.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c06"></a>
 
@@ -1489,7 +1499,7 @@ Are crying out under their hellish plights:
 Sing, Faithful, sing, and let thy name survive;  
 For though they killed thee, thou art yet alive."  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c07"></a>
 
@@ -1726,7 +1736,7 @@ Lest heedlessness makes them as we to fare;
 Lest they, for trespassing, his prisoners are,  
 Whose castle's Doubting, and whose name's Despair."  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c08"></a>
 
@@ -1787,7 +1797,7 @@ Things deep, things hid, and that mysterious be."
 
 When they were about to depart, one of the shepherds gave them a note of the way. Another of them bid them beware of the Flatterer. The third bid them take heed that they slept not upon Enchanted Ground. And the fourth bid them God speed. So I awoke from my dream.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c09"></a>
 
@@ -2220,7 +2230,7 @@ Good counsel, taken well, saves; therefore hear.
 But if thou yet shalt slight it, thou wilt be  
 The loser, Ignorance, I'll warrant thee."  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c10"></a>
 
@@ -2372,7 +2382,7 @@ There were also of them that had wings, and they answered one another without in
 
 Now, while I was gazing upon all these things, I turned my head to look back, and saw Ignorance come up to the river side; but he soon got over, and that without half the difficulty which the other two men met with. For it happened that there was then in that place one Vain-Hope, a ferryman, that with his boat helped him over; so he, as the other I saw, did ascend the hill, to come up to the gate; only he came alone, neither did any man meet him with the least encouragement. When he was come up to the gate, he looked up to the writing that was above, and then began to knock, supposing that entrance should have been quickly administered to him; but he was asked by the men that looked over the top of the gate, Whence come you? and what would you have? He answered, I have ate and drank in the presence of the King, and he has taught in our streets. Then they asked him for his certificate, that they might go in and show it to the King: so he fumbled in his bosom for one, and found none. Then said they, Have you none? but the man answered never a word. So they told the King, but he would not come down to see him, but commanded the two shining ones, that conducted Christian and Hopeful to the city, to go out and take Ignorance, and bind him hand and foot, and have him away. Then they took him up, and carried him through the air to the door that I saw in the side of the hill, and put him in there. Then I saw that there was a way to hell, even from the gate of heaven, as well as from the City of Destruction. So I awoke, and behold it was a dream.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c11"></a>
 
@@ -2401,7 +2411,7 @@ None throw away the apple for the core:
 But if thou shalt cast all away as vain,  
 I know not but 'twill make me dream again.  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="cP2"></a>
 
@@ -2411,7 +2421,7 @@ Wherein is set forth the manner of the setting out of christian's wife and child
 
 I have used similtudes.--Hos. 12:10\.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c12"></a>
 
@@ -2784,7 +2794,7 @@ Mrs. Inconsiderate also replied, saying, Away with such fantastical fools from t
 
 Then Mrs. Light-Mind added as followeth: Come, put this kind of talk away. I was yesterday at Madam Wanton's, where we were as merry as the maids. For who do you think should be there but I and Mrs. Love-the-Flesh, and three or four more, with Mrs. Lechery, Mrs. Filth, and some others: so there we had music and dancing, and what else was meet to fill up the pleasure. And I dare say, my lady herself is an admirable well-bred gentlewoman, and Mr. Lechery is as pretty a fellow.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c13"></a>
 
@@ -2895,7 +2905,7 @@ Mercy: Then said Mercy, I confess my ignorance; I spake what I understood not; I
 
 Christiana: Then Christiana began to talk of their journey, and to inquire after the way. So he fed them and washed their feet, and set them in the way of his steps, according as he had dealt with her husband before.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c14"></a>
 
@@ -3055,7 +3065,7 @@ When they were returned out of the garden from the bath, the Interpreter took th
 
 Then said the Interpreter again to the damsel that waited upon these women, Go into the vestry, and fetch out garments for these people. So she went and fetched out white raiment, and laid it down before him; so he commanded them to put it on: it was fine linen, white and clean. When the women were thus adorned, they seemed to be a terror one to the other; for that they could not see that glory each one had in herself, which they could see in each other. Now therefore they began to esteem each other better than themselves. For, You are fairer than I am, said one; and, You are more comely than I am, said another. The children also stood amazed, to see into what fashion they were brought.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c15"></a>
 
@@ -3157,7 +3167,7 @@ Then said Mercy, But the proverb is, "To go down the hill is easy." But James sa
 
 Christiana: Come, said Christiana, will you eat a bit to sweeten your mouths, while you sit here to rest your legs? for I have here a piece of pomegranate which Mr. Interpreter put into my hand just when I came out of his door; he gave me also a piece of an honeycomb, and a little bottle of spirits. I thought he gave you something, said Mercy, because he called you aside. Yes, so he did, said the other; but, said Christiana, it shall be still as I said it should, when at first we came from home; thou shalt be a sharer in all the good that I have, because thou so willingly didst become my companion. Then she gave to them, and they did eat, both Mercy and the boys. And said Christiana to Mr. Great-Heart, Sir, will you do as we? But he answered, You are going on pilgrimage, and presently I shall return; much good may what you have do you: at home I eat the same every day.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c16"></a>
 
@@ -3492,7 +3502,7 @@ Then said Christiana to the Porter, Sir, I am much obliged to you for all the ki
 02.  \[8\] A musical instrument.
 03.  \[9\] A gold angel was a coin of the value of ten shillings sterling and according to the comparative value of money in Bunyan's time, equal at least to a guinea at the present time.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c17"></a>
 
@@ -3613,7 +3623,7 @@ The pilgrims guide to be;
 Until that I did him oppose  
 That was their enemy."  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c18"></a>
 
@@ -4059,7 +4069,7 @@ This, therefore, made Mr. Great-Heart and his fellows of great fame in this town
 
 <a name="c19"></a>
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 ### The Seventh Stage
 
@@ -4164,7 +4174,7 @@ That we, though pilgrims, joyful lives may live;
 They do upon us, too, such things bestow,  
 That show we pilgrims are, where'er we go."  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="c20"></a>
 
@@ -4424,7 +4434,7 @@ Farewell.
 
 THE END.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+***
 
 <a name="cRI"></a>
 
